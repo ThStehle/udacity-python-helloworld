@@ -42,4 +42,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
+          repository: thstehle/udacity-python-helloworld
           tags: thstehle/udacity-python-helloworld:latest
